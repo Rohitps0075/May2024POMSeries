@@ -10,6 +10,7 @@ import io.qameta.allure.Step;
 
 public class LoginPage {
 
+	String name="Rohit";// dummy value please ignore. 
 	/*
 	 * 3 things we need to keep in mind while creating a page class
 	 * 
