@@ -1,6 +1,6 @@
 package com.qa.opencart.pages;
 
-public class P14 {
+public class p14 {
 
 	public static void main(String[] args) {
 		//find the sum of odd numbers in a given number.
