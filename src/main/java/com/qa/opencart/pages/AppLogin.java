@@ -6,6 +6,7 @@ public class AppLogin {
 
 	public void login() {
 		System.out.println("Nimi---Login");
+		double d=22.5;
 	}
 
 }
