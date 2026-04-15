@@ -1,3 +1,5 @@
+package com.qa.opencart.pages;
+
 public class AppLogin {
 
 	String name = "Rohit";
